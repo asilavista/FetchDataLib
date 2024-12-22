@@ -30,9 +30,6 @@ public class FetchUserViewModel : Combine.ObservableObject {
   @objc deinit
 }
 public struct User : Swift.Decodable {
-  public static var mock: FetchDataSDK.User {
-    get
-  }
   public init(from decoder: any Swift.Decoder) throws
 }
 @_Concurrency.MainActor @preconcurrency public struct UserView : SwiftUICore.View {

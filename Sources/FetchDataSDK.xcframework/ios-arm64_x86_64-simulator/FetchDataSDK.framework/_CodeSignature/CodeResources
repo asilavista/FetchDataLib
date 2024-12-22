@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		hhvp1F63zhLcm+yElcXY7y4/hSs=
+		MpT0NDG6tLMqQVvFYBs+u2qfJXU=
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		sGo1dxeAvyD+5evwpuewaC+lPFI=
+		kqkMFtYlBNhX8CJ5/Z7r7QdCguw=
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		sGo1dxeAvyD+5evwpuewaC+lPFI=
+		kqkMFtYlBNhX8CJ5/Z7r7QdCguw=
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+whg+yDW0QARds2x5xV/7dMh1Wo=
+		q5Jv8F/h+Qy9cmxOAp7K3QrwXu4=
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		hhvp1F63zhLcm+yElcXY7y4/hSs=
+		MpT0NDG6tLMqQVvFYBs+u2qfJXU=
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		SEz/0Sw8rV6ldtqOe7Fh+nqy17w=
+		b0BR+XyOSxtNpQg5F47Z3YcQt6g=
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		SEz/0Sw8rV6ldtqOe7Fh+nqy17w=
+		b0BR+XyOSxtNpQg5F47Z3YcQt6g=
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b8aV77pBCdHGlVn29MrOJviUYsE=
+		Y0vGjjf9dDRjCIozttYmsKM8S+4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,14 +70,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ELENm9y4SIVVXY5eJdIeq6GIyD0y050Iq9Por8vsVC8=
+			OXaOix2ST6U17HXDiv0jz96Q/gtB24GbvhI+VVXYdZs=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			//dSignMPkQOGSnO8e77SO1irjvWCQGlTY/ru3Q4J5A=
+			QMzdSEBYCionUFvvnR5iBN42GH89TkwHSLLXkXtzLQQ=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -91,28 +91,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			//dSignMPkQOGSnO8e77SO1irjvWCQGlTY/ru3Q4J5A=
+			QMzdSEBYCionUFvvnR5iBN42GH89TkwHSLLXkXtzLQQ=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O9TcUwgjJgvT4/GjP7LWXWbFsY6OWQWD7oGL7HKgYgc=
+			ZAWXBpCqTTkcnAdB9cj2v4hfJ+1zgIDkwVpoFeAJLE0=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ELENm9y4SIVVXY5eJdIeq6GIyD0y050Iq9Por8vsVC8=
+			OXaOix2ST6U17HXDiv0jz96Q/gtB24GbvhI+VVXYdZs=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jOPSb0Q6S9fkk32aglYo2ApCr8EUal8UmrfQ3NGKNiE=
+			0Zmva3g77bRrIs0LAX3GOj3b2H/9oPEIiFnD/OUTwZI=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -126,14 +126,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jOPSb0Q6S9fkk32aglYo2ApCr8EUal8UmrfQ3NGKNiE=
+			0Zmva3g77bRrIs0LAX3GOj3b2H/9oPEIiFnD/OUTwZI=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2SAgI3L+BHIZPyLh/+1z10h1zjL3+C6EO6o271xyVBo=
+			+N8MhxPM8oYfiShojx9hd/uy11TtA9gbJDqsL5Rp3kY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
