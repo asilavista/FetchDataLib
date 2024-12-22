@@ -1,0 +1,6 @@
+framework module FetchDataSDK {
+  umbrella header "FetchDataSDK.h"
+  export *
+
+  module * { export * }
+}

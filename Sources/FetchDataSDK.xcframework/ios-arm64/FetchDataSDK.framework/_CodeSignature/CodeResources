@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		MpT0NDG6tLMqQVvFYBs+u2qfJXU=
+		hhvp1F63zhLcm+yElcXY7y4/hSs=
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		vEV9ZiZSGv676fJNKeFCTE7pkoA=
+		d7cTNYWBv6vTSu44BvFTDn5/OaM=
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		vEV9ZiZSGv676fJNKeFCTE7pkoA=
+		d7cTNYWBv6vTSu44BvFTDn5/OaM=
 		</data>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		HStG4148FkH9z9D//JlYYXi9tSY=
+		hO3DDXd7rR5EvdmCTJ6EiNm7uUw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,14 +50,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OXaOix2ST6U17HXDiv0jz96Q/gtB24GbvhI+VVXYdZs=
+			ELENm9y4SIVVXY5eJdIeq6GIyD0y050Iq9Por8vsVC8=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			idpDda+y5bBopslb3pjrjlOVQhmnnx0MI0ERKNrLICE=
+			IJBVsymgA/IielACA/c+Pcefm3+eQkAKLouQ98RV498=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -71,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			idpDda+y5bBopslb3pjrjlOVQhmnnx0MI0ERKNrLICE=
+			IJBVsymgA/IielACA/c+Pcefm3+eQkAKLouQ98RV498=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dxJW/kUSML1cdqSzl3t/+py3ycr/oVzKWeSTBsu1Yuw=
+			QR+UyoikQWenVcvldu0ewpF3mi4rgRTK2ERt37jPXLM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

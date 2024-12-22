@@ -597,6 +597,48 @@
         "printedName": "User",
         "children": [
           {
+            "kind": "Var",
+            "name": "mock",
+            "printedName": "mock",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "User",
+                "printedName": "FetchDataSDK.User",
+                "usr": "s:12FetchDataSDK4UserV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12FetchDataSDK4UserV4mockACvpZ",
+            "mangledName": "$s12FetchDataSDK4UserV4mockACvpZ",
+            "moduleName": "FetchDataSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "User",
+                    "printedName": "FetchDataSDK.User",
+                    "usr": "s:12FetchDataSDK4UserV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12FetchDataSDK4UserV4mockACvgZ",
+                "mangledName": "$s12FetchDataSDK4UserV4mockACvgZ",
+                "moduleName": "FetchDataSDK",
+                "static": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(from:)",
