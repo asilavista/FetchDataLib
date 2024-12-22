@@ -1,0 +1,805 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "FetchDataSDK",
+    "printedName": "FetchDataSDK",
+    "children": [
+      {
+        "kind": "TypeDecl",
+        "name": "FetchUserError",
+        "printedName": "FetchUserError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "invalidResponse",
+            "printedName": "invalidResponse",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FetchDataSDK.FetchUserError.Type) -> FetchDataSDK.FetchUserError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FetchUserError",
+                    "printedName": "FetchDataSDK.FetchUserError",
+                    "usr": "s:12FetchDataSDK0A9UserErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "FetchDataSDK.FetchUserError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FetchUserError",
+                        "printedName": "FetchDataSDK.FetchUserError",
+                        "usr": "s:12FetchDataSDK0A9UserErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12FetchDataSDK0A9UserErrorO15invalidResponseyA2CmF",
+            "mangledName": "$s12FetchDataSDK0A9UserErrorO15invalidResponseyA2CmF",
+            "moduleName": "FetchDataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "invalidData",
+            "printedName": "invalidData",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FetchDataSDK.FetchUserError.Type) -> FetchDataSDK.FetchUserError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FetchUserError",
+                    "printedName": "FetchDataSDK.FetchUserError",
+                    "usr": "s:12FetchDataSDK0A9UserErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "FetchDataSDK.FetchUserError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FetchUserError",
+                        "printedName": "FetchDataSDK.FetchUserError",
+                        "usr": "s:12FetchDataSDK0A9UserErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12FetchDataSDK0A9UserErrorO07invalidB0yA2CmF",
+            "mangledName": "$s12FetchDataSDK0A9UserErrorO07invalidB0yA2CmF",
+            "moduleName": "FetchDataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "invalidURL",
+            "printedName": "invalidURL",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FetchDataSDK.FetchUserError.Type) -> FetchDataSDK.FetchUserError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FetchUserError",
+                    "printedName": "FetchDataSDK.FetchUserError",
+                    "usr": "s:12FetchDataSDK0A9UserErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "FetchDataSDK.FetchUserError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FetchUserError",
+                        "printedName": "FetchDataSDK.FetchUserError",
+                        "usr": "s:12FetchDataSDK0A9UserErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12FetchDataSDK0A9UserErrorO10invalidURLyA2CmF",
+            "mangledName": "$s12FetchDataSDK0A9UserErrorO10invalidURLyA2CmF",
+            "moduleName": "FetchDataSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "custom",
+            "printedName": "custom",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FetchDataSDK.FetchUserError.Type) -> (any Swift.Error) -> FetchDataSDK.FetchUserError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(any Swift.Error) -> FetchDataSDK.FetchUserError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FetchUserError",
+                        "printedName": "FetchDataSDK.FetchUserError",
+                        "usr": "s:12FetchDataSDK0A9UserErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "FetchDataSDK.FetchUserError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FetchUserError",
+                        "printedName": "FetchDataSDK.FetchUserError",
+                        "usr": "s:12FetchDataSDK0A9UserErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12FetchDataSDK0A9UserErrorO6customyACs0E0_pcACmF",
+            "mangledName": "$s12FetchDataSDK0A9UserErrorO6customyACs0E0_pcACmF",
+            "moduleName": "FetchDataSDK"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:12FetchDataSDK0A9UserErrorO",
+        "mangledName": "$s12FetchDataSDK0A9UserErrorO",
+        "moduleName": "FetchDataSDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "FetchDataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FetchUserViewModel",
+        "printedName": "FetchUserViewModel",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "result",
+            "printedName": "result",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Result<FetchDataSDK.User, FetchDataSDK.FetchUserError>?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<FetchDataSDK.User, FetchDataSDK.FetchUserError>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "User",
+                        "printedName": "FetchDataSDK.User",
+                        "usr": "s:12FetchDataSDK4UserV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FetchUserError",
+                        "printedName": "FetchDataSDK.FetchUserError",
+                        "usr": "s:12FetchDataSDK0A9UserErrorO"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12FetchDataSDK0A13UserViewModelC6results6ResultOyAA0D0VAA0aD5ErrorOGSgvp",
+            "mangledName": "$s12FetchDataSDK0A13UserViewModelC6results6ResultOyAA0D0VAA0aD5ErrorOGSgvp",
+            "moduleName": "FetchDataSDK",
+            "declAttributes": [
+              "ProjectedValueProperty",
+              "AccessControl",
+              "Custom"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Result<FetchDataSDK.User, FetchDataSDK.FetchUserError>?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Result",
+                        "printedName": "Swift.Result<FetchDataSDK.User, FetchDataSDK.FetchUserError>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "User",
+                            "printedName": "FetchDataSDK.User",
+                            "usr": "s:12FetchDataSDK4UserV"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "FetchUserError",
+                            "printedName": "FetchDataSDK.FetchUserError",
+                            "usr": "s:12FetchDataSDK0A9UserErrorO"
+                          }
+                        ],
+                        "usr": "s:s6ResultO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12FetchDataSDK0A13UserViewModelC6results6ResultOyAA0D0VAA0aD5ErrorOGSgvg",
+                "mangledName": "$s12FetchDataSDK0A13UserViewModelC6results6ResultOyAA0D0VAA0aD5ErrorOGSgvg",
+                "moduleName": "FetchDataSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Result<FetchDataSDK.User, FetchDataSDK.FetchUserError>?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Result",
+                        "printedName": "Swift.Result<FetchDataSDK.User, FetchDataSDK.FetchUserError>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "User",
+                            "printedName": "FetchDataSDK.User",
+                            "usr": "s:12FetchDataSDK4UserV"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "FetchUserError",
+                            "printedName": "FetchDataSDK.FetchUserError",
+                            "usr": "s:12FetchDataSDK0A9UserErrorO"
+                          }
+                        ],
+                        "usr": "s:s6ResultO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12FetchDataSDK0A13UserViewModelC6results6ResultOyAA0D0VAA0aD5ErrorOGSgvs",
+                "mangledName": "$s12FetchDataSDK0A13UserViewModelC6results6ResultOyAA0D0VAA0aD5ErrorOGSgvs",
+                "moduleName": "FetchDataSDK",
+                "implicit": true,
+                "intro_Macosx": "10.15",
+                "intro_iOS": "13.0",
+                "intro_tvOS": "13.0",
+                "intro_watchOS": "6.0",
+                "declAttributes": [
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12FetchDataSDK0A13UserViewModelC6results6ResultOyAA0D0VAA0aD5ErrorOGSgvM",
+                "mangledName": "$s12FetchDataSDK0A13UserViewModelC6results6ResultOyAA0D0VAA0aD5ErrorOGSgvM",
+                "moduleName": "FetchDataSDK",
+                "implicit": true,
+                "intro_Macosx": "10.15",
+                "intro_iOS": "13.0",
+                "intro_tvOS": "13.0",
+                "intro_watchOS": "6.0",
+                "declAttributes": [
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "$result",
+            "printedName": "$result",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Publisher",
+                "printedName": "Combine.Published<Swift.Optional<Swift.Result<FetchDataSDK.User, FetchDataSDK.FetchUserError>>>.Publisher",
+                "usr": "s:7Combine9PublishedV9PublisherV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12FetchDataSDK0A13UserViewModelC7$result7Combine9PublishedV9PublisherVys6ResultOyAA0D0VAA0aD5ErrorOGSg_Gvp",
+            "mangledName": "$s12FetchDataSDK0A13UserViewModelC7$result7Combine9PublishedV9PublisherVys6ResultOyAA0D0VAA0aD5ErrorOGSg_Gvp",
+            "moduleName": "FetchDataSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Publisher",
+                    "printedName": "Combine.Published<Swift.Optional<Swift.Result<FetchDataSDK.User, FetchDataSDK.FetchUserError>>>.Publisher",
+                    "usr": "s:7Combine9PublishedV9PublisherV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12FetchDataSDK0A13UserViewModelC7$result7Combine9PublishedV9PublisherVys6ResultOyAA0D0VAA0aD5ErrorOGSg_Gvg",
+                "mangledName": "$s12FetchDataSDK0A13UserViewModelC7$result7Combine9PublishedV9PublisherVys6ResultOyAA0D0VAA0aD5ErrorOGSg_Gvg",
+                "moduleName": "FetchDataSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Publisher",
+                    "printedName": "Combine.Published<Swift.Optional<Swift.Result<FetchDataSDK.User, FetchDataSDK.FetchUserError>>>.Publisher",
+                    "usr": "s:7Combine9PublishedV9PublisherV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12FetchDataSDK0A13UserViewModelC7$result7Combine9PublishedV9PublisherVys6ResultOyAA0D0VAA0aD5ErrorOGSg_Gvs",
+                "mangledName": "$s12FetchDataSDK0A13UserViewModelC7$result7Combine9PublishedV9PublisherVys6ResultOyAA0D0VAA0aD5ErrorOGSg_Gvs",
+                "moduleName": "FetchDataSDK",
+                "implicit": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12FetchDataSDK0A13UserViewModelC7$result7Combine9PublishedV9PublisherVys6ResultOyAA0D0VAA0aD5ErrorOGSg_GvM",
+                "mangledName": "$s12FetchDataSDK0A13UserViewModelC7$result7Combine9PublishedV9PublisherVys6ResultOyAA0D0VAA0aD5ErrorOGSg_GvM",
+                "moduleName": "FetchDataSDK",
+                "implicit": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "fetchUser",
+            "printedName": "fetchUser(name:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12FetchDataSDK0A13UserViewModelC05fetchD04nameySS_tYaF",
+            "mangledName": "$s12FetchDataSDK0A13UserViewModelC05fetchD04nameySS_tYaF",
+            "moduleName": "FetchDataSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:12FetchDataSDK0A13UserViewModelC",
+        "mangledName": "$s12FetchDataSDK0A13UserViewModelC",
+        "moduleName": "FetchDataSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ObservableObject",
+            "printedName": "ObservableObject",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ObjectWillChangePublisher",
+                "printedName": "ObjectWillChangePublisher",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObservableObjectPublisher",
+                    "printedName": "Combine.ObservableObjectPublisher",
+                    "usr": "s:7Combine25ObservableObjectPublisherC"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7Combine16ObservableObjectP",
+            "mangledName": "$s7Combine16ObservableObjectP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "User",
+        "printedName": "User",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "User",
+                "printedName": "FetchDataSDK.User",
+                "usr": "s:12FetchDataSDK4UserV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12FetchDataSDK4UserV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s12FetchDataSDK4UserV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "FetchDataSDK",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:12FetchDataSDK4UserV",
+        "mangledName": "$s12FetchDataSDK4UserV",
+        "moduleName": "FetchDataSDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FetchDataSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UserView",
+        "printedName": "UserView",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "body",
+            "printedName": "body",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12FetchDataSDK8UserViewV4bodyQrvp",
+            "mangledName": "$s12FetchDataSDK8UserViewV4bodyQrvp",
+            "moduleName": "FetchDataSDK",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12FetchDataSDK8UserViewV4bodyQrvg",
+                "mangledName": "$s12FetchDataSDK8UserViewV4bodyQrvg",
+                "moduleName": "FetchDataSDK",
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:12FetchDataSDK8UserViewV",
+        "mangledName": "$s12FetchDataSDK8UserViewV",
+        "moduleName": "FetchDataSDK",
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "View",
+            "printedName": "View",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI4ViewP",
+            "mangledName": "$s7SwiftUI4ViewP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/asigivati\/Desktop\/Development\/SDK Development\/Framework\/FetchDataSDK\/FetchDataSDK\/User.swift",
+      "kind": "StringLiteral",
+      "offset": 241,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/asigivati\/Desktop\/Development\/SDK Development\/Framework\/FetchDataSDK\/FetchDataSDK\/User.swift",
+      "kind": "StringLiteral",
+      "offset": 266,
+      "length": 7,
+      "value": "\"login\""
+    },
+    {
+      "filePath": "\/Users\/asigivati\/Desktop\/Development\/SDK Development\/Framework\/FetchDataSDK\/FetchDataSDK\/User.swift",
+      "kind": "StringLiteral",
+      "offset": 293,
+      "length": 5,
+      "value": "\"bio\""
+    },
+    {
+      "filePath": "\/Users\/asigivati\/Desktop\/Development\/SDK Development\/Framework\/FetchDataSDK\/FetchDataSDK\/User.swift",
+      "kind": "StringLiteral",
+      "offset": 324,
+      "length": 11,
+      "value": "\"avatarUrl\""
+    }
+  ]
+}

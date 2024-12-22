@@ -5,17 +5,34 @@ import PackageDescription
 
 let package = Package(
     name: "FetchDataLib",
+    platforms: [.macOS(.v12), .iOS(.v15)],
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "FetchDataLib",
-            targets: ["FetchDataLib"]),
+            targets: ["FetchDataSDK"]),
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
-        .target(
-            name: "FetchDataLib"),
-
+        .binaryTarget(
+            name: "FetchDataSDK",
+            path: "./Sources/FetchDataSDK.xcframework")
     ]
 )
+
+/*
+ let package = Package(
+     name: "CustomFramework",
+     platforms: [
+       .macOS(.v12), .iOS(.v15)
+     ],
+     products: [
+         .library(
+             name: "CustomFramework",
+             targets: ["CustomFramework"]),
+     ],
+     targets: [
+         .binaryTarget(
+             name: "CustomFramework",
+             path: "./Sources/CustomFramework.xcframework")
+     ]
+ )
+ */
