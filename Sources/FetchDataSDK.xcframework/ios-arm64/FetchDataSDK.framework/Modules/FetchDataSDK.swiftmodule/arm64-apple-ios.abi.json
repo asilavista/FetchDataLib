@@ -672,6 +672,52 @@
         "children": [
           {
             "kind": "Var",
+            "name": "user",
+            "printedName": "user",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "User",
+                "printedName": "FetchDataSDK.User",
+                "usr": "s:12FetchDataSDK4UserV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12FetchDataSDK8UserViewV4userAA0D0Vvp",
+            "mangledName": "$s12FetchDataSDK8UserViewV4userAA0D0Vvp",
+            "moduleName": "FetchDataSDK",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "User",
+                    "printedName": "FetchDataSDK.User",
+                    "usr": "s:12FetchDataSDK4UserV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12FetchDataSDK8UserViewV4userAA0D0Vvg",
+                "mangledName": "$s12FetchDataSDK8UserViewV4userAA0D0Vvg",
+                "moduleName": "FetchDataSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "body",
             "printedName": "body",
             "children": [
