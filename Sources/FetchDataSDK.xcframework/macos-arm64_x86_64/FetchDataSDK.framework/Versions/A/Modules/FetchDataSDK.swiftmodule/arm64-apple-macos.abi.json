@@ -671,10 +671,16 @@
         "printedName": "UserView",
         "children": [
           {
-            "kind": "Var",
-            "name": "user",
-            "printedName": "user",
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(user:)",
             "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UserView",
+                "printedName": "FetchDataSDK.UserView",
+                "usr": "s:12FetchDataSDK8UserViewV"
+              },
               {
                 "kind": "TypeNominal",
                 "name": "User",
@@ -682,39 +688,16 @@
                 "usr": "s:12FetchDataSDK4UserV"
               }
             ],
-            "declKind": "Var",
-            "usr": "s:12FetchDataSDK8UserViewV4userAA0D0Vvp",
-            "mangledName": "$s12FetchDataSDK8UserViewV4userAA0D0Vvp",
+            "declKind": "Constructor",
+            "usr": "s:12FetchDataSDK8UserViewV4userAcA0D0V_tcfc",
+            "mangledName": "$s12FetchDataSDK8UserViewV4userAcA0D0V_tcfc",
             "moduleName": "FetchDataSDK",
             "declAttributes": [
               "Preconcurrency",
               "Custom",
-              "HasStorage",
               "AccessControl"
             ],
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "User",
-                    "printedName": "FetchDataSDK.User",
-                    "usr": "s:12FetchDataSDK4UserV"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12FetchDataSDK8UserViewV4userAA0D0Vvg",
-                "mangledName": "$s12FetchDataSDK8UserViewV4userAA0D0Vvg",
-                "moduleName": "FetchDataSDK",
-                "implicit": true,
-                "accessorKind": "get"
-              }
-            ]
+            "init_kind": "Designated"
           },
           {
             "kind": "Var",

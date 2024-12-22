@@ -33,7 +33,7 @@ public struct User : Swift.Decodable {
   public init(from decoder: any Swift.Decoder) throws
 }
 @_Concurrency.MainActor @preconcurrency public struct UserView : SwiftUICore.View {
-  @_Concurrency.MainActor @preconcurrency public let user: FetchDataSDK.User
+  @_Concurrency.MainActor @preconcurrency public init(user: FetchDataSDK.User)
   @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
     get
   }
