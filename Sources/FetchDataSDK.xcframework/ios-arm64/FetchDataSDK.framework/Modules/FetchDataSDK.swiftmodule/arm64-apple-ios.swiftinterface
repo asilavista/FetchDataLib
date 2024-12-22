@@ -11,7 +11,7 @@ import _SwiftConcurrencyShims
 public enum FetchUserError : Swift.Error {
   case invalidResponse, invalidData, invalidURL, custom(any Swift.Error)
 }
-@_hasMissingDesignatedInitializers public class FetchUserViewModel : Combine.ObservableObject {
+public class FetchUserViewModel : Combine.ObservableObject {
   @Combine.Published @_projectedValueProperty($result) public var result: Swift.Result<FetchDataSDK.User, FetchDataSDK.FetchUserError>? {
     get
     @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
@@ -24,6 +24,7 @@ public enum FetchUserError : Swift.Error {
     @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
     set
   }
+  public init()
   public func fetchUser(name: Swift.String) async
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit

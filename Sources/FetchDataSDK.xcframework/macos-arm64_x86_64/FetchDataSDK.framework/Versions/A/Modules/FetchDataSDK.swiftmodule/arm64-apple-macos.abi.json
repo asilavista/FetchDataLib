@@ -498,6 +498,27 @@
             ]
           },
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FetchUserViewModel",
+                "printedName": "FetchDataSDK.FetchUserViewModel",
+                "usr": "s:12FetchDataSDK0A13UserViewModelC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12FetchDataSDK0A13UserViewModelCACycfc",
+            "mangledName": "$s12FetchDataSDK0A13UserViewModelCACycfc",
+            "moduleName": "FetchDataSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "fetchUser",
             "printedName": "fetchUser(name:)",
@@ -531,7 +552,6 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true,
         "conformances": [
           {
             "kind": "Conformance",

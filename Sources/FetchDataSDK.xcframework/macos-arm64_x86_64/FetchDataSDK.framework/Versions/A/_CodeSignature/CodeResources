@@ -22,14 +22,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oSDVuM4h6M62IUjPz3tLu7r3XtNk6pdgB0gbupxV0z4=
+			+IyD+1dKly604GEYMvv8GnaT8h2Q3gEdCWTYss1eRW4=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UIYv4W6GCpDVHuxt4qpCNz5uZnanN9CeSoqonUaQPxQ=
+			6eUHgCIUB8ipKbS3ejX/cX/Ren8hX9VIAc+s4G5owrY=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-macos.swiftdoc</key>
@@ -43,28 +43,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UIYv4W6GCpDVHuxt4qpCNz5uZnanN9CeSoqonUaQPxQ=
+			6eUHgCIUB8ipKbS3ejX/cX/Ren8hX9VIAc+s4G5owrY=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8fUWikL482Ut8M1Dv+sREGMqne/QIp7XAOv15wH/28w=
+			0w7lLKFcl8mnjYosJ+/2lZeMUKUR3fRuRLA3+qMfOR0=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oSDVuM4h6M62IUjPz3tLu7r3XtNk6pdgB0gbupxV0z4=
+			+IyD+1dKly604GEYMvv8GnaT8h2Q3gEdCWTYss1eRW4=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OcMPtdWWmF8ayjPM4HrOfmoUHAzxsp75wCGY7xREVFI=
+			BO2sQ8ugPhSYmsn4W0qIdBMsHQCPVB0nQRW/nqmmiaM=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OcMPtdWWmF8ayjPM4HrOfmoUHAzxsp75wCGY7xREVFI=
+			BO2sQ8ugPhSYmsn4W0qIdBMsHQCPVB0nQRW/nqmmiaM=
 			</data>
 		</dict>
 		<key>Modules/FetchDataSDK.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			STshwkys6ye5bOKJ2ErEOU4xFaYE6TtOY2+YI2IkycM=
+			CmN+mDy1gvlCvhHJ7FLeTs+Z0gnicmjSh1RaNBaD3pk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
